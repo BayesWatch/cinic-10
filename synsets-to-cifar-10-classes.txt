@@ -1,0 +1,1372 @@
+airplane
+--------------------------------n02691156: airplane, aeroplane, plane
+------------------------------------n02690373: airliner
+----------------------------------------n02686121: airbus
+----------------------------------------n03809312: narrowbody aircraft, narrow-body aircraft, narrow-body
+----------------------------------------n04583620: widebody aircraft, wide-body aircraft, wide-body, twin-aisle airplane
+------------------------------------n02704645: amphibian, amphibious aircraft
+------------------------------------n02842573: biplane
+------------------------------------n02867715: bomber
+----------------------------------------n04308273: stealth bomber
+----------------------------------------n03215191: dive bomber
+------------------------------------n03174079: delta wing
+------------------------------------n03335030: fighter, fighter aircraft, attack aircraft
+----------------------------------------n03577672: interceptor
+----------------------------------------n03608074: kamikaze
+----------------------------------------n04308397: stealth fighter
+------------------------------------n03490784: hangar queen
+------------------------------------n03595860: jet, jet plane, jet-propelled plane
+----------------------------------------n03321419: fanjet, fan-jet, turbofan, turbojet
+----------------------------------------n03596543: jetliner
+----------------------------------------n03604311: jumbojet, jumbo jet
+----------------------------------------n04503499: twinjet
+------------------------------------n03783873: monoplane
+------------------------------------n03798610: multiengine airplane, multiengine plane
+------------------------------------n04012084: propeller plane
+----------------------------------------n03227505: double-prop, double-propeller plane, twin-prop, twin-propeller-plane
+----------------------------------------n04012482: propjet, turboprop, turbo-propeller plane
+----------------------------------------n04222723: single prop, single-propeller plane
+------------------------------------n04062644: reconnaissance plane
+------------------------------------n04160586: seaplane, hydroplane
+----------------------------------------n03365231: floatplane, pontoon plane
+----------------------------------------n03373611: flying boat
+------------------------------------n04230487: ski-plane
+------------------------------------n04389999: tanker plane
+automobile
+--------------------------------n02958343: car, auto, automobile, machine, motorcar
+------------------------------------n02701002: ambulance
+----------------------------------------n03404012: funny wagon
+------------------------------------n02814533: beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+----------------------------------------n04201733: shooting brake
+------------------------------------n02924554: bus, jalopy, heap
+------------------------------------n02930766: cab, hack, taxi, taxicab
+----------------------------------------n03472937: gypsy cab
+----------------------------------------n03769967: minicab
+------------------------------------n03079136: compact, compact car
+------------------------------------n03100240: convertible
+------------------------------------n03119396: coupe
+------------------------------------n03141065: cruiser, police cruiser, patrol car, police car, prowl car, squad car
+----------------------------------------n03881534: panda car
+------------------------------------n03268790: electric, electric automobile, electric car
+------------------------------------n03421669: gas guzzler
+------------------------------------n03493219: hardtop
+------------------------------------n03498781: hatchback
+------------------------------------n03539103: horseless carriage
+------------------------------------n03543394: hot rod, hot-rod
+------------------------------------n03594945: jeep, landrover
+------------------------------------n03670208: limousine, limo
+----------------------------------------n02831335: berlin
+------------------------------------n03680512: loaner
+------------------------------------n03770085: minicar
+----------------------------------------n03769967: minicab
+------------------------------------n03770679: minivan
+------------------------------------n03777568: Model T
+------------------------------------n03870105: pace car
+------------------------------------n04037443: racer, race car, racing car
+----------------------------------------n04322801: stock car
+----------------------------------------n03342961: finisher
+------------------------------------n04097373: roadster, runabout, two-seater
+------------------------------------n04166281: sedan, saloon
+----------------------------------------n02907194: brougham
+------------------------------------n04285008: sports car, sport car
+------------------------------------n04285965: sport utility, sport utility vehicle, S.U.V., SUV
+------------------------------------n04302988: Stanley Steamer
+------------------------------------n04322924: stock car
+------------------------------------n04347119: subcompact, subcompact car
+------------------------------------n04459122: touring car, phaeton, tourer
+------------------------------------n04516354: used-car, secondhand car
+bird
+----------------n01503061: bird
+--------------------n01503976: dickeybird, dickey-bird, dickybird, dicky-bird
+--------------------n01514668: cock
+------------------------n01514752: gamecock, fighting cock
+--------------------n01514859: hen
+--------------------n01514926: nester
+--------------------n01515078: night bird
+------------------------n01515217: night raven
+--------------------n01515303: bird of passage
+--------------------n01515583: protoavis
+--------------------n01516212: archaeopteryx, archeopteryx, Archaeopteryx lithographica
+--------------------n01516609: Sinornis
+--------------------n01517036: Ibero-mesornis
+--------------------n01517389: archaeornis
+--------------------n01517565: ratite, ratite bird, flightless bird
+------------------------n01518878: ostrich, Struthio camelus
+------------------------n01519563: cassowary
+------------------------n01519873: emu, Dromaius novaehollandiae, Emu novaehollandiae
+------------------------n01520576: kiwi, apteryx
+------------------------n01521399: rhea, Rhea americana
+------------------------n01521756: rhea, nandu, Pterocnemia pennata
+------------------------n01522450: elephant bird, aepyornis
+------------------------n01523105: moa
+----------------------------n01523493: anomalopteryx, Anomalopteryx oweni
+----------------------------n01523248: giant moa, Dinornis giganteus
+--------------------n01517966: carinate, carinate bird, flying bird
+--------------------n01524359: passerine, passeriform bird
+------------------------n01525720: oscine, oscine bird
+----------------------------n01526521: songbird, songster
+----------------------------n01526766: honey eater, honeysucker
+----------------------------n01527194: accentor
+--------------------------------n01527347: hedge sparrow, sparrow, dunnock, Prunella modularis
+----------------------------n01527617: lark
+--------------------------------n01527917: skylark, Alauda arvensis
+----------------------------n01528396: wagtail
+----------------------------n01528654: pipit, titlark, lark
+--------------------------------n01528845: meadow pipit, Anthus pratensis
+----------------------------n01529672: finch
+--------------------------------n01530439: chaffinch, Fringilla coelebs
+--------------------------------n01530575: brambling, Fringilla montifringilla
+--------------------------------n01531178: goldfinch, Carduelis carduelis
+--------------------------------n01531344: linnet, lintwhite, Carduelis cannabina
+--------------------------------n01531512: siskin, Carduelis spinus
+--------------------------------n01531639: red siskin, Carduelis cucullata
+--------------------------------n01531811: redpoll, Carduelis flammea
+--------------------------------n01531971: redpoll, Carduelis hornemanni
+--------------------------------n01532325: New World goldfinch, goldfinch, yellowbird, Spinus tristis
+--------------------------------n01532511: pine siskin, pine finch, Spinus pinus
+--------------------------------n01532829: house finch, linnet, Carpodacus mexicanus
+--------------------------------n01533000: purple finch, Carpodacus purpureus
+--------------------------------n01533339: canary, canary bird
+------------------------------------n01533481: common canary, Serinus canaria
+--------------------------------n01533651: serin
+--------------------------------n01533893: crossbill, Loxia curvirostra
+--------------------------------n01534155: bullfinch, Pyrrhula pyrrhula
+--------------------------------n01534433: junco, snowbird
+------------------------------------n01534582: dark-eyed junco, slate-colored junco, Junco hyemalis
+--------------------------------n01534762: New World sparrow
+------------------------------------n01535140: vesper sparrow, grass finch, Pooecetes gramineus
+------------------------------------n01535469: white-throated sparrow, whitethroat, Zonotrichia albicollis
+------------------------------------n01535690: white-crowned sparrow, Zonotrichia leucophrys
+------------------------------------n01536035: chipping sparrow, Spizella passerina
+------------------------------------n01536186: field sparrow, Spizella pusilla
+------------------------------------n01536334: tree sparrow, Spizella arborea
+------------------------------------n01536644: song sparrow, Melospiza melodia
+------------------------------------n01536780: swamp sparrow, Melospiza georgiana
+--------------------------------n01537134: bunting
+------------------------------------n01537544: indigo bunting, indigo finch, indigo bird, Passerina cyanea
+------------------------------------n01537895: ortolan, ortolan bunting, Emberiza hortulana
+------------------------------------n01538059: reed bunting, Emberiza schoeniclus
+------------------------------------n01538200: yellowhammer, yellow bunting, Emberiza citrinella
+------------------------------------n01538362: yellow-breasted bunting, Emberiza aureola
+------------------------------------n01538630: snow bunting, snowbird, snowflake, Plectrophenax nivalis
+--------------------------------n01540233: grosbeak, grossbeak
+------------------------------------n01540566: evening grosbeak, Hesperiphona vespertina
+------------------------------------n01540832: hawfinch, Coccothraustes coccothraustes
+------------------------------------n01541102: pine grosbeak, Pinicola enucleator
+--------------------------------n01541386: cardinal, cardinal grosbeak, Richmondena Cardinalis, Cardinalis cardinalis, redbird
+--------------------------------n01541760: pyrrhuloxia, Pyrrhuloxia sinuata
+--------------------------------n01541922: towhee
+------------------------------------n01542433: green-tailed towhee, Chlorura chlorura
+------------------------------------n01542168: chewink, cheewink, Pipilo erythrophthalmus
+--------------------------------n01544704: honeycreeper, Hawaiian honeycreeper
+------------------------------------n01545010: mamo
+----------------------------n01538955: honeycreeper
+--------------------------------n01539272: banana quit
+----------------------------n01542786: weaver, weaverbird, weaver finch
+--------------------------------n01543175: baya, Ploceus philippinus
+--------------------------------n01543383: whydah, whidah, widow bird
+--------------------------------n01543632: Java sparrow, Java finch, ricebird, Padda oryzivora
+--------------------------------n01543936: avadavat, amadavat
+--------------------------------n01544208: grassfinch, grass finch
+------------------------------------n01544389: zebra finch, Poephila castanotis
+----------------------------n01555809: Old World flycatcher, true flycatcher, flycatcher
+--------------------------------n01556182: spotted flycatcher, Muscicapa striata, Muscicapa grisola
+--------------------------------n01556514: thickhead, whistler
+----------------------------n01557185: thrush
+--------------------------------n01557962: missel thrush, mistle thrush, mistletoe thrush, Turdus viscivorus
+--------------------------------n01558149: song thrush, mavis, throstle, Turdus philomelos
+--------------------------------n01558307: fieldfare, snowbird, Turdus pilaris
+--------------------------------n01558461: redwing, Turdus iliacus
+--------------------------------n01558594: blackbird, merl, merle, ouzel, ousel, European blackbird, Turdus merula
+--------------------------------n01558765: ring ouzel, ring blackbird, ring thrush, Turdus torquatus
+--------------------------------n01558993: robin, American robin, Turdus migratorius
+--------------------------------n01559160: clay-colored robin, Turdus greyi
+--------------------------------n01559477: hermit thrush, Hylocichla guttata
+--------------------------------n01559639: veery, Wilson's thrush, Hylocichla fuscescens
+--------------------------------n01559804: wood thrush, Hylocichla mustelina
+--------------------------------n01560105: nightingale, Luscinia megarhynchos
+------------------------------------n01560419: bulbul
+--------------------------------n01560280: thrush nightingale, Luscinia luscinia
+--------------------------------n01560636: Old World chat, chat
+------------------------------------n01560793: stonechat, Saxicola torquata
+------------------------------------n01560935: whinchat, Saxicola rubetra
+--------------------------------n01561181: solitaire
+--------------------------------n01561452: redstart, redtail
+--------------------------------n01561732: wheatear
+--------------------------------n01562014: bluebird
+--------------------------------n01562265: robin, redbreast, robin redbreast, Old World robin, Erithacus rubecola
+--------------------------------n01562451: bluethroat, Erithacus svecicus
+----------------------------n01563128: warbler
+--------------------------------n01563449: gnatcatcher
+--------------------------------n01563746: kinglet
+------------------------------------n01563945: goldcrest, golden-crested kinglet, Regulus regulus
+------------------------------------n01564101: gold-crowned kinglet, Regulus satrata
+------------------------------------n01564217: ruby-crowned kinglet, ruby-crowned wren, Regulus calendula
+--------------------------------n01564394: Old World warbler, true warbler
+------------------------------------n01564773: blackcap, Silvia atricapilla
+------------------------------------n01565345: wood warbler, Phylloscopus sibilatrix
+------------------------------------n01565599: sedge warbler, sedge bird, sedge wren, reedbird, Acrocephalus schoenobaenus
+------------------------------------n01565930: wren warbler
+------------------------------------n01566207: tailorbird, Orthotomus sutorius
+--------------------------------n01564914: greater whitethroat, whitethroat, Sylvia communis
+--------------------------------n01565078: lesser whitethroat, whitethroat, Sylvia curruca
+--------------------------------n01567133: New World warbler, wood warbler
+------------------------------------n01567678: parula warbler, northern parula, Parula americana
+------------------------------------n01567879: Wilson's warbler, Wilson's blackcap, Wilsonia pusilla
+------------------------------------n01568132: flycatching warbler
+----------------------------------------n01568294: American redstart, redstart, Setophaga ruticilla
+------------------------------------n01568720: Cape May warbler, Dendroica tigrina
+------------------------------------n01568892: yellow warbler, golden warbler, yellowbird, Dendroica petechia
+------------------------------------n01569060: Blackburn, Blackburnian warbler, Dendroica fusca
+------------------------------------n01569262: Audubon's warbler, Audubon warbler, Dendroica auduboni
+------------------------------------n01569423: myrtle warbler, myrtle bird, Dendroica coronata
+------------------------------------n01569566: blackpoll, Dendroica striate
+------------------------------------n01569836: New World chat, chat
+----------------------------------------n01569971: yellow-breasted chat, Icteria virens
+------------------------------------n01570267: ovenbird, Seiurus aurocapillus
+------------------------------------n01570421: water thrush
+------------------------------------n01570676: yellowthroat
+----------------------------------------n01570839: common yellowthroat, Maryland yellowthroat, Geothlypis trichas
+----------------------------n01566645: babbler, cackler
+----------------------------n01571126: bird of paradise
+--------------------------------n01571410: riflebird, Ptloris paradisea
+----------------------------n01571904: New World oriole, American oriole, oriole
+--------------------------------n01572328: northern oriole, Icterus galbula
+------------------------------------n01572489: Baltimore oriole, Baltimore bird, hangbird, firebird, Icterus galbula galbula
+------------------------------------n01572654: Bullock's oriole, Icterus galbula bullockii
+--------------------------------n01572782: orchard oriole, Icterus spurius
+--------------------------------n01573074: meadowlark, lark
+------------------------------------n01573240: eastern meadowlark, Sturnella magna
+------------------------------------n01573360: western meadowlark, Sturnella neglecta
+--------------------------------n01573627: cacique, cazique
+--------------------------------n01573898: bobolink, ricebird, reedbird, Dolichonyx oryzivorus
+--------------------------------n01574045: New World blackbird, blackbird
+------------------------------------n01574390: grackle, crow blackbird
+----------------------------------------n01574560: purple grackle, Quiscalus quiscula
+------------------------------------n01574801: rusty blackbird, rusty grackle, Euphagus carilonus
+------------------------------------n01575117: cowbird
+------------------------------------n01575401: red-winged blackbird, redwing, Agelaius phoeniceus
+----------------------------n01575745: Old World oriole, oriole
+--------------------------------n01576076: golden oriole, Oriolus oriolus
+--------------------------------n01576358: fig-bird
+----------------------------n01576695: starling
+--------------------------------n01577035: common starling, Sturnus vulgaris
+--------------------------------n01577458: rose-colored starling, rose-colored pastor, Pastor sturnus, Pastor roseus
+--------------------------------n01577659: myna, mynah, mina, minah, myna bird, mynah bird
+------------------------------------n01577941: crested myna, Acridotheres tristis
+------------------------------------n01578180: hill myna, Indian grackle, grackle, Gracula religiosa
+----------------------------n01578575: corvine bird
+--------------------------------n01579028: crow
+------------------------------------n01579149: American crow, Corvus brachyrhyncos
+--------------------------------n01579260: raven, Corvus corax
+--------------------------------n01579410: rook, Corvus frugilegus
+--------------------------------n01579578: jackdaw, daw, Corvus monedula
+--------------------------------n01579729: chough
+--------------------------------n01580077: jay
+------------------------------------n01580379: Old World jay
+----------------------------------------n01580490: common European jay, Garullus garullus
+------------------------------------n01580772: New World jay
+----------------------------------------n01580870: blue jay, jaybird, Cyanocitta cristata
+------------------------------------n01581166: Canada jay, grey jay, gray jay, camp robber, whisker jack, Perisoreus canadensis
+----------------------------------------n01581434: Rocky Mountain jay, Perisoreus canadensis capitalis
+--------------------------------n01581730: nutcracker
+------------------------------------n01581874: common nutcracker, Nucifraga caryocatactes
+------------------------------------n01581984: Clark's nutcracker, Nucifraga columbiana
+--------------------------------n01582220: magpie
+------------------------------------n01582398: European magpie, Pica pica
+------------------------------------n01582498: American magpie, Pica pica hudsonia
+----------------------------n01582856: Australian magpie
+--------------------------------n01583209: butcherbird
+--------------------------------n01583495: currawong, bell magpie
+--------------------------------n01583828: piping crow, piping crow-shrike, Gymnorhina tibicen
+----------------------------n01586941: mockingbird, mocker, Mimus polyglotktos
+----------------------------n01587278: blue mockingbird, Melanotis caerulescens
+----------------------------n01587526: catbird, grey catbird, gray catbird, Dumetella carolinensis
+----------------------------n01587834: thrasher, mocking thrush
+--------------------------------n01588002: brown thrasher, brown thrush, Toxostoma rufums
+----------------------------n01588431: New Zealand wren
+--------------------------------n01588725: rock wren, Xenicus gilviventris
+--------------------------------n01588996: rifleman bird, Acanthisitta chloris
+----------------------------n01589286: creeper, tree creeper
+--------------------------------n01589718: brown creeper, American creeper, Certhia americana
+--------------------------------n01589893: European creeper, Certhia familiaris
+--------------------------------n01590220: wall creeper, tichodrome, Tichodroma muriaria
+----------------------------n01590583: nuthatch, nutcracker
+--------------------------------n01591005: European nuthatch, Sitta europaea
+--------------------------------n01591123: red-breasted nuthatch, Sitta canadensis
+--------------------------------n01591301: white-breasted nuthatch, Sitta carolinensis
+----------------------------n01591697: titmouse, tit
+--------------------------------n01592084: chickadee
+------------------------------------n01592257: black-capped chickadee, blackcap, Parus atricapillus
+------------------------------------n01592540: Carolina chickadee, Parus carolinensis
+--------------------------------n01592387: tufted titmouse, Parus bicolor
+--------------------------------n01592694: blue tit, tomtit, Parus caeruleus
+--------------------------------n01593028: bushtit, bush tit
+--------------------------------n01593282: wren-tit, Chamaea fasciata
+--------------------------------n01593553: verdin, Auriparus flaviceps
+----------------------------n01594004: fairy bluebird, bluebird
+----------------------------n01594372: swallow
+--------------------------------n01594787: barn swallow, chimney swallow, Hirundo rustica
+--------------------------------n01594968: cliff swallow, Hirundo pyrrhonota
+--------------------------------n01595168: tree swallow, tree martin, Hirundo nigricans
+--------------------------------n01595450: white-bellied swallow, tree swallow, Iridoprocne bicolor
+--------------------------------n01595624: martin
+------------------------------------n01595974: house martin, Delichon urbica
+------------------------------------n01596273: bank martin, bank swallow, sand martin, Riparia riparia
+------------------------------------n01596608: purple martin, Progne subis
+----------------------------n01597022: wood swallow, swallow shrike
+----------------------------n01597336: tanager
+--------------------------------n01597737: scarlet tanager, Piranga olivacea, redbird, firebird
+--------------------------------n01597906: western tanager, Piranga ludoviciana
+--------------------------------n01598074: summer tanager, summer redbird, Piranga rubra
+--------------------------------n01598271: hepatic tanager, Piranga flava hepatica
+----------------------------n01598588: shrike
+--------------------------------n01598988: butcherbird
+------------------------------------n01599159: European shrike, Lanius excubitor
+------------------------------------n01599269: northern shrike, Lanius borealis
+------------------------------------n01599388: white-rumped shrike, Lanius ludovicianus excubitorides
+--------------------------------n01599556: loggerhead shrike, Lanius lucovicianus
+--------------------------------n01599741: migrant shrike, Lanius ludovicianus migrans
+--------------------------------n01600085: bush shrike
+------------------------------------n01600341: black-fronted bush shrike, Chlorophoneus nigrifrons
+----------------------------n01600657: bowerbird, catbird
+--------------------------------n01601410: great bowerbird, Chlamydera nuchalis
+--------------------------------n01601068: satin bowerbird, satin bird, Ptilonorhynchus violaceus
+----------------------------n01601694: water ouzel, dipper
+--------------------------------n01602080: European water ouzel, Cinclus aquaticus
+--------------------------------n01602209: American water ouzel, Cinclus mexicanus
+----------------------------n01602630: vireo
+--------------------------------n01602832: red-eyed vireo, Vireo olivaceous
+--------------------------------n01603000: solitary vireo, Vireo solitarius
+--------------------------------n01603152: blue-headed vireo, Vireo solitarius solitarius
+----------------------------n01603600: waxwing
+--------------------------------n01603812: cedar waxwing, cedarbird, Bombycilla cedrorun
+--------------------------------n01603953: Bohemian waxwing, Bombycilla garrulus
+------------------------n01539573: sparrow, true sparrow
+----------------------------n01539925: English sparrow, house sparrow, Passer domesticus
+----------------------------n01540090: tree sparrow, Passer montanus
+------------------------n01545574: lyrebird
+------------------------n01546039: scrubbird, scrub-bird, scrub bird
+------------------------n01546506: broadbill
+------------------------n01546921: tyrannid
+----------------------------n01547832: New World flycatcher, flycatcher, tyrant flycatcher, tyrant bird
+--------------------------------n01548301: kingbird, Tyrannus tyrannus
+------------------------------------n01548492: Arkansas kingbird, western kingbird
+------------------------------------n01548694: Cassin's kingbird, Tyrannus vociferans
+------------------------------------n01548865: eastern kingbird
+------------------------------------n01549053: grey kingbird, gray kingbird, petchary, Tyrannus domenicensis domenicensis
+--------------------------------n01549430: pewee, peewee, peewit, pewit, wood pewee, Contopus virens
+------------------------------------n01549641: western wood pewee, Contopus sordidulus
+--------------------------------n01549886: phoebe, phoebe bird, Sayornis phoebe
+--------------------------------n01550172: vermillion flycatcher, firebird, Pyrocephalus rubinus mexicanus
+--------------------------------n01550761: cotinga, chatterer
+------------------------------------n01551080: cock of the rock, Rupicola rupicola
+------------------------------------n01551300: cock of the rock, Rupicola peruviana
+------------------------------------n01552034: bellbird
+------------------------------------n01552333: umbrella bird, Cephalopterus ornatus
+--------------------------------n01555305: scissortail, scissortailed flycatcher, Muscivora-forficata
+----------------------------n01551711: manakin
+----------------------------n01552813: ovenbird
+----------------------------n01553142: antbird, ant bird
+--------------------------------n01553527: ant thrush
+--------------------------------n01553762: ant shrike
+--------------------------------n01554017: spotted antbird, Hylophylax naevioides
+----------------------------n01554448: woodhewer, woodcreeper, wood-creeper, tree creeper
+----------------------------n01555004: pitta
+------------------------n01584225: wren, jenny wren
+----------------------------n01584695: winter wren, Troglodytes troglodytes
+----------------------------n01584853: house wren, Troglodytes aedon
+----------------------------n01585121: marsh wren
+--------------------------------n01585287: long-billed marsh wren, Cistothorus palustris
+--------------------------------n01585422: sedge wren, short-billed marsh wren, Cistothorus platensis
+----------------------------n01585715: rock wren, Salpinctes obsoletus
+----------------------------n01586020: Carolina wren, Thryothorus ludovicianus
+----------------------------n01586374: cactus wren
+--------------------n01524761: nonpasserine bird
+--------------------n01604330: bird of prey, raptor, raptorial bird
+------------------------n01604968: Accipitriformes, order Accipitriformes
+------------------------n01605630: hawk
+----------------------------n01606097: eyas
+----------------------------n01606177: tiercel, tercel, tercelet
+----------------------------n01606522: goshawk, Accipiter gentilis
+----------------------------n01606672: sparrow hawk, Accipiter nisus
+----------------------------n01606809: Cooper's hawk, blue darter, Accipiter cooperii
+----------------------------n01606978: chicken hawk, hen hawk
+----------------------------n01607309: buteonine
+----------------------------n01607429: redtail, red-tailed hawk, Buteo jamaicensis
+----------------------------n01607600: rough-legged hawk, roughleg, Buteo lagopus
+----------------------------n01607812: red-shouldered hawk, Buteo lineatus
+----------------------------n01607962: buzzard, Buteo buteo
+----------------------------n01608265: honey buzzard, Pernis apivorus
+----------------------------n01608432: kite
+--------------------------------n01608814: black kite, Milvus migrans
+--------------------------------n01609062: swallow-tailed kite, swallow-tailed hawk, Elanoides forficatus
+--------------------------------n01609391: white-tailed kite, Elanus leucurus
+----------------------------n01609751: harrier
+--------------------------------n01609956: marsh harrier, Circus Aeruginosus
+--------------------------------n01610100: Montagu's harrier, Circus pygargus
+--------------------------------n01610226: marsh hawk, northern harrier, hen harrier, Circus cyaneus
+----------------------------n01610552: harrier eagle, short-toed eagle
+----------------------------n01610955: falcon
+--------------------------------n01611472: peregrine, peregrine falcon, Falco peregrinus
+------------------------------------n01611674: falcon-gentle, falcon-gentil
+--------------------------------n01611800: gyrfalcon, gerfalcon, Falco rusticolus
+--------------------------------n01611969: kestrel, Falco tinnunculus
+--------------------------------n01612122: sparrow hawk, American kestrel, kestrel, Falco sparverius
+--------------------------------n01612275: pigeon hawk, merlin, Falco columbarius
+--------------------------------n01612476: hobby, Falco subbuteo
+--------------------------------n01612628: caracara
+------------------------------------n01612955: Audubon's caracara, Polyborus cheriway audubonii
+------------------------------------n01613177: carancha, Polyborus plancus
+----------------------------n01616086: osprey, fish hawk, fish eagle, sea eagle, Pandion haliaetus
+------------------------n01613294: eagle, bird of Jove
+----------------------------n01613807: eaglet
+----------------------------n01614038: harpy, harpy eagle, Harpia harpyja
+----------------------------n01614343: golden eagle, Aquila chrysaetos
+--------------------------------n01614690: ringtail
+----------------------------n01614556: tawny eagle, Aquila rapax
+----------------------------n01614925: bald eagle, American eagle, Haliaeetus leucocephalus
+----------------------------n01615121: sea eagle
+--------------------------------n01615303: Kamchatkan sea eagle, Stellar's sea eagle, Haliaeetus pelagicus
+--------------------------------n01615458: ern, erne, grey sea eagle, gray sea eagle, European sea eagle, white-tailed sea eagle, Haliatus albicilla
+--------------------------------n01615703: fishing eagle, Haliaeetus leucorhyphus
+------------------------n01616318: vulture
+----------------------------n01616551: Aegypiidae, family Aegypiidae
+----------------------------n01616764: Old World vulture
+--------------------------------n01617095: griffon vulture, griffon, Gyps fulvus
+--------------------------------n01617443: bearded vulture, lammergeier, lammergeyer, Gypaetus barbatus
+--------------------------------n01617766: Egyptian vulture, Pharaoh's chicken, Neophron percnopterus
+--------------------------------n01618082: black vulture, Aegypius monachus
+----------------------------n01618922: New World vulture, cathartid
+--------------------------------n01619310: buzzard, turkey buzzard, turkey vulture, Cathartes aura
+--------------------------------n01619536: condor
+------------------------------------n01619835: Andean condor, Vultur gryphus
+------------------------------------n01620135: California condor, Gymnogyps californianus
+--------------------------------n01620414: black vulture, carrion crow, Coragyps atratus
+--------------------------------n01620735: king vulture, Sarcorhamphus papa
+------------------------n01618503: secretary bird, Sagittarius serpentarius
+------------------------n01621127: owl, bird of Minerva, bird of night, hooter
+----------------------------n01621635: owlet
+----------------------------n01622120: little owl, Athene noctua
+----------------------------n01622352: horned owl
+--------------------------------n01622483: great horned owl, Bubo virginianus
+----------------------------n01622779: great grey owl, great gray owl, Strix nebulosa
+----------------------------n01622959: tawny owl, Strix aluco
+----------------------------n01623110: barred owl, Strix varia
+----------------------------n01623425: screech owl, Otus asio
+----------------------------n01623615: screech owl
+----------------------------n01623706: scops owl
+--------------------------------n01624115: Old World scops owl, Otus scops
+--------------------------------n01624212: Oriental scops owl, Otus sunia
+----------------------------n01623880: spotted owl, Strix occidentalis
+----------------------------n01624305: hoot owl
+----------------------------n01624537: hawk owl, Surnia ulula
+----------------------------n01624833: long-eared owl, Asio otus
+----------------------------n01625121: laughing owl, laughing jackass, Sceloglaux albifacies
+----------------------------n01625562: barn owl, Tyto alba
+--------------------n01789386: gallinaceous bird, gallinacean
+------------------------n01789740: domestic fowl, fowl, poultry
+----------------------------n01790171: Dorking
+----------------------------n01790304: Plymouth Rock
+----------------------------n01790398: Cornish, Cornish fowl
+----------------------------n01790557: Rock Cornish
+----------------------------n01790711: game fowl
+----------------------------n01790812: cochin, cochin china
+----------------------------n01791625: chicken, Gallus gallus
+--------------------------------n01792042: chick, biddy
+--------------------------------n01792158: cock, rooster
+------------------------------------n01792429: cockerel
+--------------------------------n01792530: capon
+--------------------------------n01792640: hen, biddy
+------------------------------------n01792808: cackler
+------------------------------------n01792955: brood hen, broody, broody hen, setting hen, sitter
+------------------------------------n01793085: mother hen
+------------------------------------n01793159: layer
+------------------------------------n01793249: pullet
+--------------------------------n01793340: spring chicken
+--------------------------------n01793435: Rhode Island red
+--------------------------------n01793565: Dominique, Dominick
+--------------------------------n01793715: Orpington
+----------------------------n01791954: bantam
+----------------------------n01794158: turkey, Meleagris gallopavo
+--------------------------------n01794344: turkey cock, gobbler, tom, tom turkey
+----------------------------n01809106: guinea fowl, guinea, Numida meleagris
+--------------------------------n01809371: guinea hen
+------------------------n01791107: jungle fowl, gallina
+----------------------------n01791314: jungle cock
+----------------------------n01791388: jungle hen
+----------------------------n01791463: red jungle fowl, Gallus gallus
+------------------------n01794651: ocellated turkey, Agriocharis ocellata
+------------------------n01799302: guan
+----------------------------n01800195: piping guan
+------------------------n01799679: curassow
+------------------------n01800424: chachalaca
+----------------------------n01800633: Texas chachalaca, Ortilis vetula macalli
+------------------------n01801088: megapode, mound bird, mound-bird, mound builder, scrub fowl
+----------------------------n01801479: mallee fowl, leipoa, lowan, Leipoa ocellata
+--------------------------------n01801672: mallee hen
+----------------------------n01801876: brush turkey, Alectura lathami
+----------------------------n01802159: maleo, Macrocephalon maleo
+------------------------n01809752: hoatzin, hoactzin, stinkbird, Opisthocomus hoazin
+------------------------n01810700: columbiform bird
+----------------------------n01811243: dodo, Raphus cucullatus
+----------------------------n01811542: solitaire, Pezophaps solitaria
+----------------------------n01811909: pigeon
+--------------------------------n01812187: pouter pigeon, pouter
+--------------------------------n01812337: dove
+------------------------------------n01813385: turtledove
+----------------------------------------n01813532: Streptopelia turtur
+----------------------------------------n01813658: ringdove, Streptopelia risoria
+------------------------------------n01813948: Australian turtledove, turtledove, Stictopelia cuneata
+------------------------------------n01814217: mourning dove, Zenaidura macroura
+--------------------------------n01812662: rock dove, rock pigeon, Columba livia
+--------------------------------n01812866: band-tailed pigeon, band-tail pigeon, bandtail, Columba fasciata
+--------------------------------n01813088: wood pigeon, ringdove, cushat, Columba palumbus
+--------------------------------n01814370: domestic pigeon
+------------------------------------n01814620: fairy swallow
+------------------------------------n01814755: roller, tumbler, tumbler pigeon
+------------------------------------n01814921: homing pigeon, homer
+----------------------------------------n01815036: carrier pigeon
+--------------------------------n01814549: squab
+--------------------------------n01815270: passenger pigeon, Ectopistes migratorius
+----------------------------n01815601: sandgrouse, sand grouse
+--------------------------------n01816017: painted sandgrouse, Pterocles indicus
+--------------------------------n01816140: pin-tailed sandgrouse, pin-tailed grouse, Pterocles alchata
+--------------------------------n01816474: pallas's sandgrouse, Syrrhaptes paradoxus
+------------------------n02153203: game bird
+----------------------------n01795088: grouse
+--------------------------------n01795545: black grouse
+------------------------------------n01795735: European black grouse, heathfowl, Lyrurus tetrix
+------------------------------------n01795900: Asian black grouse, Lyrurus mlokosiewiczi
+------------------------------------n01796019: blackcock, black cock
+------------------------------------n01796105: greyhen, grayhen, grey hen, gray hen, heath hen
+--------------------------------n01796340: ptarmigan
+------------------------------------n01796519: red grouse, moorfowl, moorbird, moor-bird, moorgame, Lagopus scoticus
+----------------------------------------n01796729: moorhen
+----------------------------------------n01796800: moorcock
+--------------------------------n01797020: capercaillie, capercailzie, horse of the wood, Tetrao urogallus
+--------------------------------n01797307: spruce grouse, Canachites canadensis
+--------------------------------n01797601: sage grouse, sage hen, Centrocercus urophasianus
+--------------------------------n01797886: ruffed grouse, partridge, Bonasa umbellus
+--------------------------------n01798168: sharp-tailed grouse, sprigtail, sprig tail, Pedioecetes phasianellus
+--------------------------------n01798484: prairie chicken, prairie grouse, prairie fowl
+------------------------------------n01798706: greater prairie chicken, Tympanuchus cupido
+------------------------------------n01798839: lesser prairie chicken, Tympanuchus pallidicinctus
+------------------------------------n01798979: heath hen, Tympanuchus cupido cupido
+----------------------------n01802721: phasianid
+--------------------------------n01803078: pheasant
+------------------------------------n01803362: ring-necked pheasant, Phasianus colchicus
+------------------------------------n01803641: afropavo, Congo peafowl, Afropavo congensis
+------------------------------------n01803893: argus, argus pheasant
+------------------------------------n01804163: golden pheasant, Chrysolophus pictus
+------------------------------------n01805321: monal, monaul
+------------------------------------n01805801: peafowl, bird of Juno
+----------------------------------------n01806061: peachick, pea-chick
+----------------------------------------n01806143: peacock
+----------------------------------------n01806297: peahen
+----------------------------------------n01806364: blue peafowl, Pavo cristatus
+----------------------------------------n01806467: green peafowl, Pavo muticus
+------------------------------------n01807105: tragopan
+--------------------------------n01806567: quail
+------------------------------------n01804478: bobwhite, bobwhite quail, partridge
+----------------------------------------n01804653: northern bobwhite, Colinus virginianus
+------------------------------------n01804921: Old World quail
+----------------------------------------n01805070: migratory quail, Coturnix coturnix, Coturnix communis
+------------------------------------n01806847: California quail, Lofortyx californicus
+--------------------------------n01807496: partridge
+------------------------------------n01807828: Hungarian partridge, grey partridge, gray partridge, Perdix perdix
+------------------------------------n01808140: red-legged partridge, Alectoris ruffa
+------------------------------------n01808291: Greek partridge, rock partridge, Alectoris graeca
+------------------------------------n01808596: mountain quail, mountain partridge, Oreortyx picta palmeri
+----------------------------n01810268: tinamou, partridge
+--------------------n01816887: parrot
+------------------------n01817263: popinjay
+------------------------n01817346: poll, poll parrot
+------------------------n01817953: African grey, African gray, Psittacus erithacus
+------------------------n01818299: amazon
+------------------------n01818515: macaw
+------------------------n01818832: kea, Nestor notabilis
+------------------------n01819115: cockatoo
+----------------------------n01819313: sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita
+----------------------------n01819465: pink cockatoo, Kakatoe leadbeateri
+------------------------n01819734: cockateel, cockatiel, cockatoo parrot, Nymphicus hollandicus
+------------------------n01820052: lovebird
+------------------------n01820348: lory
+----------------------------n01820546: lorikeet
+--------------------------------n01820801: varied Lorikeet, Glossopsitta versicolor
+--------------------------------n01821076: rainbow lorikeet, Trichoglossus moluccanus
+------------------------n01821203: parakeet, parrakeet, parroket, paraquet, paroquet, parroquet
+----------------------------n01821554: Carolina parakeet, Conuropsis carolinensis
+----------------------------n01821869: budgerigar, budgereegah, budgerygah, budgie, grass parakeet, lovebird, shell parakeet, Melopsittacus undulatus
+----------------------------n01822300: ring-necked parakeet, Psittacula krameri
+--------------------n01822602: cuculiform bird
+------------------------n01823013: cuckoo
+----------------------------n01823414: European cuckoo, Cuculus canorus
+----------------------------n01823740: black-billed cuckoo, Coccyzus erythropthalmus
+----------------------------n01824035: roadrunner, chaparral cock, Geococcyx californianus
+----------------------------n01824344: ani
+----------------------------n01824575: coucal
+--------------------------------n01824862: pheasant coucal, pheasant cuckoo, Centropus phasianinus
+--------------------------------n01824749: crow pheasant, Centropus sinensis
+------------------------n01825278: touraco, turaco, turacou, turakoo
+--------------------n01825930: coraciiform bird
+------------------------n01826364: roller
+----------------------------n01826680: European roller, Coracias garrulus
+----------------------------n01826844: ground roller
+------------------------n01827403: kingfisher
+----------------------------n01827793: Eurasian kingfisher, Alcedo atthis
+----------------------------n01828096: belted kingfisher, Ceryle alcyon
+----------------------------n01828556: kookaburra, laughing jackass, Dacelo gigas
+------------------------n01828970: bee eater
+------------------------n01829413: hornbill
+------------------------n01829869: hoopoe, hoopoo
+----------------------------n01830042: Euopean hoopoe, Upupa epops
+------------------------n01830479: wood hoopoe
+------------------------n01830915: motmot, momot
+------------------------n01831360: tody
+--------------------n01831712: apodiform bird
+------------------------n01832167: swift
+----------------------------n01832493: European swift, Apus apus
+----------------------------n01832813: chimney swift, chimney swallow, Chateura pelagica
+----------------------------n01833112: swiftlet, Collocalia inexpectata
+------------------------n01833415: tree swift, crested swift
+------------------------n01833805: hummingbird
+----------------------------n01834177: Archilochus colubris
+----------------------------n01834540: thornbill
+--------------------n01834918: caprimulgiform bird
+------------------------n01835276: goatsucker, nightjar, caprimulgid
+----------------------------n01835769: European goatsucker, European nightjar, Caprimulgus europaeus
+----------------------------n01835918: chuck-will's-widow, Caprimulgus carolinensis
+----------------------------n01836087: whippoorwill, Caprimulgus vociferus
+----------------------------n01836384: nighthawk, bullbat, mosquito hawk
+----------------------------n01836673: poorwill, Phalaenoptilus nuttallii
+------------------------n01837072: frogmouth
+------------------------n01837526: oilbird, guacharo, Steatornis caripensis
+--------------------n01838038: piciform bird
+------------------------n01838598: woodpecker, peckerwood, pecker
+----------------------------n01839086: green woodpecker, Picus viridis
+----------------------------n01839330: downy woodpecker
+----------------------------n01839598: flicker
+--------------------------------n01839750: yellow-shafted flicker, Colaptes auratus, yellowhammer
+--------------------------------n01839949: gilded flicker, Colaptes chrysoides
+--------------------------------n01840120: red-shafted flicker, Colaptes caper collaris
+----------------------------n01840412: ivorybill, ivory-billed woodpecker, Campephilus principalis
+----------------------------n01840775: redheaded woodpecker, redhead, Melanerpes erythrocephalus
+----------------------------n01841102: sapsucker
+--------------------------------n01841288: yellow-bellied sapsucker, Sphyrapicus varius
+--------------------------------n01841441: red-breasted sapsucker, Sphyrapicus varius ruber
+----------------------------n01841679: wryneck
+----------------------------n01841943: piculet
+------------------------n01842235: barbet
+------------------------n01842504: puffbird
+------------------------n01842788: honey guide
+------------------------n01843065: jacamar
+------------------------n01843383: toucan
+----------------------------n01843719: toucanet
+--------------------n01844231: trogon
+------------------------n01844551: quetzal, quetzal bird
+----------------------------n01844746: resplendent quetzel, resplendent trogon, Pharomacrus mocino
+--------------------n01844917: aquatic bird
+------------------------n01845132: waterfowl, water bird, waterbird
+----------------------------n01860497: screamer
+--------------------------------n01860864: horned screamer, Anhima cornuta
+--------------------------------n01861148: crested screamer
+------------------------------------n01861330: chaja, Chauna torquata
+----------------------------n01845477: anseriform bird
+--------------------------------n01855672: goose
+------------------------------------n01856072: gosling
+------------------------------------n01856155: gander
+------------------------------------n01856380: Chinese goose, Anser cygnoides
+------------------------------------n01856553: greylag, graylag, greylag goose, graylag goose, Anser anser
+------------------------------------n01856890: blue goose, Chen caerulescens
+----------------------------------------n01857079: snow goose
+------------------------------------n01857325: brant, brant goose, brent, brent goose
+----------------------------------------n01857512: common brant goose, Branta bernicla
+------------------------------------n01857632: honker, Canada goose, Canadian goose, Branta canadensis
+------------------------------------n01857851: barnacle goose, barnacle, Branta leucopsis
+--------------------------------n01846331: duck
+------------------------------------n01847000: drake
+------------------------------------n01847089: quack-quack
+------------------------------------n01847170: duckling
+------------------------------------n01847253: diving duck
+------------------------------------n01847407: dabbling duck, dabbler
+------------------------------------n01847806: mallard, Anas platyrhynchos
+------------------------------------n01847978: black duck, Anas rubripes
+------------------------------------n01848123: teal
+----------------------------------------n01848323: greenwing, green-winged teal, Anas crecca
+----------------------------------------n01848453: bluewing, blue-winged teal, Anas discors
+----------------------------------------n01848555: garganey, Anas querquedula
+------------------------------------n01848648: widgeon, wigeon, Anas penelope
+----------------------------------------n01848840: American widgeon, baldpate, Anas americana
+------------------------------------n01848976: shoveler, shoveller, broadbill, Anas clypeata
+------------------------------------n01849157: pintail, pin-tailed duck, Anas acuta
+------------------------------------n01849466: sheldrake
+----------------------------------------n01849676: shelduck
+------------------------------------n01849863: ruddy duck, Oxyura jamaicensis
+------------------------------------n01850192: bufflehead, butterball, dipper, Bucephela albeola
+------------------------------------n01850373: goldeneye, whistler, Bucephela clangula
+----------------------------------------n01850553: Barrow's goldeneye, Bucephala islandica
+------------------------------------n01850873: canvasback, canvasback duck, Aythya valisineria
+------------------------------------n01851038: pochard, Aythya ferina
+------------------------------------n01851207: redhead, Aythya americana
+------------------------------------n01851375: scaup, scaup duck, bluebill, broadbill
+----------------------------------------n01851731: lesser scaup, lesser scaup duck, lake duck, Aythya affinis
+----------------------------------------n01851573: greater scaup, Aythya marila
+------------------------------------n01851895: wild duck
+------------------------------------n01852142: wood duck, summer duck, wood widgeon, Aix sponsa
+----------------------------------------n01852329: wood drake
+------------------------------------n01852400: mandarin duck, Aix galericulata
+------------------------------------n01852671: muscovy duck, musk duck, Cairina moschata
+------------------------------------n01852861: sea duck
+----------------------------------------n01853195: eider, eider duck
+----------------------------------------n01853498: scoter, scooter
+--------------------------------------------n01853666: common scoter, Melanitta nigra
+----------------------------------------n01853870: old squaw, oldwife, Clangula hyemalis
+----------------------------------------n01854415: merganser, fish duck, sawbill, sheldrake
+--------------------------------------------n01854700: goosander, Mergus merganser
+--------------------------------------------n01854838: American merganser, Mergus merganser americanus
+--------------------------------------------n01855032: red-breasted merganser, Mergus serrator
+--------------------------------------------n01855188: smew, Mergus albellus
+--------------------------------------------n01855476: hooded merganser, hooded sheldrake, Lophodytes cucullatus
+------------------------n01858441: swan
+----------------------------n01858281: coscoroba
+----------------------------n01858780: cob
+----------------------------n01858845: pen
+----------------------------n01858906: cygnet
+----------------------------n01859190: mute swan, Cygnus olor
+----------------------------n01859325: whooper, whooper swan, Cygnus cygnus
+----------------------------n01859496: tundra swan, Cygnus columbianus
+--------------------------------n01859689: whistling swan, Cygnus columbianus columbianus
+--------------------------------n01859852: Bewick's swan, Cygnus columbianus bewickii
+----------------------------n01860002: trumpeter, trumpeter swan, Cygnus buccinator
+----------------------------n01860187: black swan, Cygnus atratus
+------------------------n02000954: wading bird, wader
+----------------------------n02002075: stork
+--------------------------------n02002556: white stork, Ciconia ciconia
+--------------------------------n02002724: black stork, Ciconia nigra
+--------------------------------n02003037: adjutant bird, adjutant, adjutant stork, Leptoptilus dubius
+--------------------------------n02003204: marabou, marabout, marabou stork, Leptoptilus crumeniferus
+--------------------------------n02003577: openbill
+--------------------------------n02003839: jabiru, Jabiru mycteria
+--------------------------------n02004131: saddlebill, jabiru, Ephippiorhynchus senegalensis
+--------------------------------n02004492: policeman bird, black-necked stork, jabiru, Xenorhyncus asiaticus
+--------------------------------n02004855: wood ibis, wood stork, flinthead, Mycteria americana
+----------------------------n02005399: shoebill, shoebird, Balaeniceps rex
+----------------------------n02005790: ibis
+--------------------------------n02006063: wood ibis, wood stork, Ibis ibis
+--------------------------------n02006364: sacred ibis, Threskiornis aethiopica
+----------------------------n02006656: spoonbill
+--------------------------------n02007284: roseate spoonbill, Ajaia ajaja
+--------------------------------n02006985: common spoonbill, Platalea leucorodia
+----------------------------n02007558: flamingo
+----------------------------n02008041: heron
+--------------------------------n02008497: great blue heron, Ardea herodius
+--------------------------------n02008643: great white heron, Ardea occidentalis
+--------------------------------n02008796: egret
+------------------------------------n02009380: snowy egret, snowy heron, Egretta thula
+------------------------------------n02009508: little egret, Egretta garzetta
+------------------------------------n02009750: great white heron, Casmerodius albus
+------------------------------------n02009912: American egret, great white heron, Egretta albus
+------------------------------------n02010272: cattle egret, Bubulcus ibis
+--------------------------------n02009229: little blue heron, Egretta caerulea
+--------------------------------n02010453: night heron, night raven
+------------------------------------n02010728: black-crowned night heron, Nycticorax nycticorax
+------------------------------------n02011016: yellow-crowned night heron, Nyctanassa violacea
+--------------------------------n02011281: boatbill, boat-billed heron, broadbill, Cochlearius cochlearius
+--------------------------------n02011460: bittern
+------------------------------------n02011805: American bittern, stake driver, Botaurus lentiginosus
+------------------------------------n02011943: European bittern, Botaurus stellaris
+------------------------------------n02012185: least bittern, Ixobrychus exilis
+----------------------------n02012849: crane
+--------------------------------n02013177: whooping crane, whooper, Grus americana
+----------------------------n02013567: courlan, Aramus guarauna
+----------------------------n02013706: limpkin, Aramus pictus
+----------------------------n02014237: crested cariama, seriema, Cariama cristata
+----------------------------n02014524: chunga, seriema, Chunga burmeisteri
+----------------------------n02014941: rail
+--------------------------------n02015357: weka, maori hen, wood hen
+--------------------------------n02015554: crake
+------------------------------------n02015797: corncrake, land rail, Crex crex
+------------------------------------n02016066: spotted crake, Porzana porzana
+--------------------------------n02017725: notornis, takahe, Notornis mantelli
+--------------------------------n02018027: coot
+------------------------------------n02018207: American coot, marsh hen, mud hen, water hen, Fulica americana
+------------------------------------n02018368: Old World coot, Fulica atra
+----------------------------n02018795: bustard
+--------------------------------n02019190: great bustard, Otis tarda
+--------------------------------n02019438: plain turkey, Choriotis australis
+----------------------------n02019929: button quail, button-quail, bustard quail, hemipode
+--------------------------------n02020219: striped button quail, Turnix sylvatica
+----------------------------n02020345: ortygan
+----------------------------n02020578: plain wanderer, Pedionomus torquatus
+----------------------------n02021050: trumpeter
+--------------------------------n02021281: Brazilian trumpeter, Psophia crepitans
+----------------------------n02022684: shorebird, shore bird, limicoline bird
+--------------------------------n02023341: plover
+------------------------------------n02023855: piping plover, Charadrius melodus
+------------------------------------n02023992: killdeer, kildeer, killdeer plover, Charadrius vociferus
+------------------------------------n02024185: dotterel, dotrel, Charadrius morinellus, Eudromias morinellus
+------------------------------------n02024479: golden plover
+------------------------------------n02024763: lapwing, green plover, peewit, pewit
+------------------------------------n02025043: turnstone
+----------------------------------------n02025239: ruddy turnstone, Arenaria interpres
+----------------------------------------n02025389: black turnstone, Arenaria-Melanocephala
+--------------------------------n02026059: sandpiper
+------------------------------------n02026948: European sandpiper, Actitis hypoleucos
+------------------------------------n02027075: spotted sandpiper, Actitis macularia
+------------------------------------n02027357: least sandpiper, stint, Erolia minutilla
+------------------------------------n02027492: red-backed sandpiper, dunlin, Erolia alpina
+------------------------------------n02027897: greenshank, Tringa nebularia
+------------------------------------n02028035: redshank, Tringa totanus
+------------------------------------n02028175: yellowlegs
+----------------------------------------n02028342: greater yellowlegs, Tringa melanoleuca
+----------------------------------------n02028451: lesser yellowlegs, Tringa flavipes
+------------------------------------n02028727: pectoral sandpiper, jacksnipe, Calidris melanotos
+------------------------------------n02028900: knot, greyback, grayback, Calidris canutus
+------------------------------------n02029087: curlew sandpiper, Calidris Ferruginea
+------------------------------------n02029378: sanderling, Crocethia alba
+------------------------------------n02029706: upland sandpiper, upland plover, Bartramian sandpiper, Bartramia longicauda
+------------------------------------n02030035: ruff, Philomachus pugnax
+----------------------------------------n02030224: reeve
+------------------------------------n02030287: tattler
+----------------------------------------n02030837: willet, Catoptrophorus semipalmatus
+----------------------------------------n02030568: Polynesian tattler, Heteroscelus incanus
+--------------------------------n02026629: surfbird, Aphriza virgata
+--------------------------------n02030996: woodcock
+------------------------------------n02031298: Eurasian woodcock, Scolopax rusticola
+------------------------------------n02031585: American woodcock, woodcock snipe, Philohela minor
+--------------------------------n02031934: snipe
+------------------------------------n02032222: whole snipe, Gallinago gallinago
+------------------------------------n02032355: Wilson's snipe, Gallinago gallinago delicata
+------------------------------------n02032480: great snipe, woodcock snipe, Gallinago media
+------------------------------------n02032769: jacksnipe, half snipe, Limnocryptes minima
+------------------------------------n02033041: dowitcher
+----------------------------------------n02033324: red-breasted snipe, Limnodromus scolopaceus
+----------------------------------------n02033208: greyback, grayback, Limnodromus griseus
+--------------------------------n02033561: curlew
+------------------------------------n02033779: European curlew, Numenius arquata
+------------------------------------n02033882: Eskimo curlew, Numenius borealis
+--------------------------------n02034129: godwit
+------------------------------------n02034295: Hudsonian godwit, Limosa haemastica
+--------------------------------n02034661: stilt, stiltbird, longlegs, long-legs, stilt plover, Himantopus stilt
+------------------------------------n02034971: black-necked stilt, Himantopus mexicanus
+------------------------------------n02035210: black-winged stilt, Himantopus himantopus
+------------------------------------n02035402: white-headed stilt, Himantopus himantopus leucocephalus
+------------------------------------n02035656: kaki, Himantopus novae-zelandiae
+--------------------------------n02036053: stilt, Australian stilt
+------------------------------------n02036228: banded stilt, Cladorhyncus leucocephalum
+--------------------------------n02036711: avocet
+--------------------------------n02037110: oystercatcher, oyster catcher
+--------------------------------n02037464: phalarope
+------------------------------------n02037869: red phalarope, Phalaropus fulicarius
+------------------------------------n02038141: northern phalarope, Lobipes lobatus
+------------------------------------n02038466: Wilson's phalarope, Steganopus tricolor
+--------------------------------n02038993: pratincole, glareole
+--------------------------------n02039171: courser
+------------------------------------n02039780: crocodile bird, Pluvianus aegyptius
+------------------------------------n02039497: cream-colored courser, Cursorius cursor
+--------------------------------n02040266: stone curlew, thick-knee, Burhinus oedicnemus
+------------------------n02016358: gallinule, marsh hen, water hen, swamphen
+----------------------------n02016659: Florida gallinule, Gallinula chloropus cachinnans
+----------------------------n02016816: moorhen, Gallinula chloropus
+----------------------------n02016956: purple gallinule
+--------------------------------n02017475: American gallinule, Porphyrula martinica
+--------------------------------n02017213: European gallinule, Porphyrio porphyrio
+------------------------n02021795: seabird, sea bird, seafowl
+----------------------------n02040505: coastal diving bird
+--------------------------------n02041085: larid
+------------------------------------n02043063: tern
+----------------------------------------n02043333: sea swallow, Sterna hirundo
+------------------------------------n02041246: gull, seagull, sea gull
+----------------------------------------n02041678: mew, mew gull, sea mew, Larus canus
+----------------------------------------n02041875: black-backed gull, great black-backed gull, cob, Larus marinus
+----------------------------------------n02042046: herring gull, Larus argentatus
+----------------------------------------n02042180: laughing gull, blackcap, pewit, pewit gull, Larus ridibundus
+----------------------------------------n02042472: ivory gull, Pagophila eburnea
+----------------------------------------n02042759: kittiwake
+--------------------------------n02043808: skimmer
+--------------------------------n02044178: jaeger
+------------------------------------n02044778: skua, bonxie
+----------------------------------------n02044908: great skua, Catharacta skua
+------------------------------------n02044517: parasitic jaeger, arctic skua, Stercorarius parasiticus
+----------------------------n02045369: auk
+--------------------------------n02045596: auklet
+--------------------------------n02045864: razorbill, razor-billed auk, Alca torda
+--------------------------------n02046171: little auk, dovekie, Plautus alle
+--------------------------------n02046442: great auk, Pinguinus impennis
+--------------------------------n02046759: guillemot
+------------------------------------n02046939: black guillemot, Cepphus grylle
+------------------------------------n02047045: pigeon guillemot, Cepphus columba
+------------------------------------n02047260: murre
+----------------------------------------n02047411: common murre, Uria aalge
+----------------------------------------n02047517: thick-billed murre, Uria lomvia
+----------------------------n02047614: puffin
+--------------------------------n02047975: Atlantic puffin, Fratercula arctica
+--------------------------------n02048115: horned puffin, Fratercula corniculata
+--------------------------------n02048353: tufted puffin, Lunda cirrhata
+----------------------------n02048698: gaviiform seabird
+--------------------------------n02049088: loon, diver
+----------------------------n02049532: podicipitiform seabird
+--------------------------------n02050004: grebe
+------------------------------------n02050313: great crested grebe, Podiceps cristatus
+------------------------------------n02050442: red-necked grebe, Podiceps grisegena
+------------------------------------n02050586: black-necked grebe, eared grebe, Podiceps nigricollis
+------------------------------------n02050809: dabchick, little grebe, Podiceps ruficollis
+------------------------------------n02051059: pied-billed grebe, Podilymbus podiceps
+----------------------------n02051474: pelecaniform seabird
+--------------------------------n02051845: pelican
+------------------------------------n02052365: Old world white pelican, Pelecanus onocrotalus
+------------------------------------n02052204: white pelican, Pelecanus erythrorhynchos
+--------------------------------n02052775: frigate bird, man-of-war bird
+--------------------------------n02053083: gannet
+------------------------------------n02053425: solan, solan goose, solant goose, Sula bassana
+------------------------------------n02053584: booby
+--------------------------------n02054036: cormorant, Phalacrocorax carbo
+--------------------------------n02054502: snakebird, anhinga, darter
+------------------------------------n02054711: water turkey, Anhinga anhinga
+--------------------------------n02055107: tropic bird, tropicbird, boatswain bird
+----------------------------n02055658: sphenisciform seabird
+--------------------------------n02055803: penguin
+------------------------------------n02056228: Adelie, Adelie penguin, Pygoscelis adeliae
+------------------------------------n02056570: king penguin, Aptenodytes patagonica
+------------------------------------n02056728: emperor penguin, Aptenodytes forsteri
+------------------------------------n02057035: jackass penguin, Spheniscus demersus
+------------------------------------n02057330: rock hopper, crested penguin
+----------------------------n02057731: pelagic bird, oceanic bird
+--------------------------------n02057898: procellariiform seabird
+--------------------------------n02058221: albatross, mollymawk
+------------------------------------n02058594: wandering albatross, Diomedea exulans
+------------------------------------n02058747: black-footed albatross, gooney, gooney bird, goonie, goony, Diomedea nigripes
+--------------------------------n02059162: petrel
+------------------------------------n02059541: white-chinned petrel, Procellaria aequinoctialis
+------------------------------------n02059852: giant petrel, giant fulmar, Macronectes giganteus
+------------------------------------n02060133: fulmar, fulmar petrel, Fulmarus glacialis
+------------------------------------n02060411: shearwater
+----------------------------------------n02060569: Manx shearwater, Puffinus puffinus
+------------------------------------n02060889: storm petrel
+----------------------------------------n02061217: stormy petrel, northern storm petrel, Hydrobates pelagicus
+----------------------------------------n02061560: Mother Carey's chicken, Mother Carey's hen, Oceanites oceanicus
+--------------------------------n02061853: diving petrel
+--------------------n02511730: twitterer
+cat
+------------------------------------n02120997: feline, felid
+----------------------------------------n02127808: big cat, cat
+--------------------------------------------n02129991: liger
+--------------------------------------------n02128925: jaguar, panther, Panthera onca, Felis onca
+--------------------------------------------n02130545: saber-toothed tiger, sabertooth
+------------------------------------------------n02130925: Smiledon californicus
+------------------------------------------------n02131211: false saber-toothed tiger
+--------------------------------------------n02129604: tiger, Panthera tigris
+------------------------------------------------n02129923: tigress
+------------------------------------------------n02129837: Bengal tiger
+------------------------------------------------n01323068: tiger cub
+--------------------------------------------n02128385: leopard, Panthera pardus
+------------------------------------------------n02128598: leopardess
+------------------------------------------------n02128669: panther
+--------------------------------------------n02128757: snow leopard, ounce, Panthera uncia
+--------------------------------------------n02129165: lion, king of beasts, Panthera leo
+------------------------------------------------n02129463: lioness
+------------------------------------------------n02129530: lionet
+------------------------------------------------n01322898: lion cub
+--------------------------------------------n02130086: tiglon, tigon
+--------------------------------------------n02130308: cheetah, chetah, Acinonyx jubatus
+----------------------------------------n02121620: cat, true cat
+--------------------------------------------n02121808: domestic cat, house cat, Felis domesticus, Felis catus
+------------------------------------------------n02124075: Egyptian cat
+------------------------------------------------n02123394: Persian cat
+------------------------------------------------n02122298: kitty, kitty-cat, puss, pussy, pussycat
+------------------------------------------------n02123159: tiger cat
+------------------------------------------------n02123478: Angora, Angora cat
+------------------------------------------------n02122725: tom, tomcat
+------------------------------------------------n02123597: Siamese cat, Siamese
+------------------------------------------------n02124484: Manx, Manx cat
+------------------------------------------------n02124157: Maltese, Maltese cat
+------------------------------------------------n02122878: tabby, queen
+------------------------------------------------n02123917: Burmese cat
+------------------------------------------------n02122510: alley cat
+------------------------------------------------n02124313: Abyssinian, Abyssinian cat
+------------------------------------------------n02123045: tabby, tabby cat
+------------------------------------------------n02123242: tortoiseshell, tortoiseshell-cat, calico cat
+------------------------------------------------n02122430: mouser
+--------------------------------------------n02124623: wildcat
+------------------------------------------------n02125311: cougar, puma, catamount, mountain lion, painter, panther, Felis concolor
+------------------------------------------------n02125081: European wildcat, catamountain, Felis silvestris
+------------------------------------------------n02125872: kaffir cat, caffer cat, Felis ocreata
+------------------------------------------------n02126465: tiger cat, Felis tigrina
+------------------------------------------------n02125010: sand cat
+------------------------------------------------n02126787: manul, Pallas's cat, Felis manul
+------------------------------------------------n02126317: leopard cat, Felis bengalensis
+------------------------------------------------n02125494: ocelot, panther cat, Felis pardalis
+------------------------------------------------n02125689: jaguarundi, jaguarundi cat, jaguarondi, eyra, Felis yagouaroundi
+------------------------------------------------n02126028: jungle cat, Felis chaus
+------------------------------------------------n02126640: margay, margay cat, Felis wiedi
+------------------------------------------------n02127052: lynx, catamount
+------------------------------------------------n02126139: serval, Felis serval
+deer
+----------------------------------------n02399000: ruminant
+--------------------------------------------n02429456: pronghorn, prongbuck, pronghorn antelope, American antelope, Antilocapra americana
+--------------------------------------------n02401031: bovid
+------------------------------------------------n02418064: goat antelope
+------------------------------------------------n02411206: musk ox, musk sheep, Ovibos moschatus
+------------------------------------------------n02411705: sheep
+------------------------------------------------n02419796: antelope
+------------------------------------------------n02414578: wild sheep
+------------------------------------------------n02416519: goat, caprine animal
+------------------------------------------------n02410509: bison
+------------------------------------------------n02407959: Old World buffalo, buffalo
+------------------------------------------------n02402010: bovine
+------------------------------------------------n02428842: forest goat, spindle horn, Pseudoryx nghetinhensis
+--------------------------------------------n02430045: deer, cervid
+------------------------------------------------n02431976: Japanese deer, sika, Cervus nipon, Cervus sika
+------------------------------------------------n02430830: fawn
+------------------------------------------------n02435216: musk deer, Moschus moschiferus
+------------------------------------------------n02432511: mule deer, burro deer, Odocoileus hemionus
+------------------------------------------------n02435517: pere david's deer, elaphure, Elaphurus davidianus
+------------------------------------------------n02434712: brocket
+------------------------------------------------n02431122: red deer, elk, American elk, wapiti, Cervus elaphus
+------------------------------------------------n02432291: Virginia deer, white tail, whitetail, white-tailed deer, whitetail deer, Odocoileus Virginianus
+------------------------------------------------n02433318: fallow deer, Dama dama
+------------------------------------------------n02433925: caribou, reindeer, Greenland caribou, Rangifer tarandus
+------------------------------------------------n02431628: sambar, sambur, Cervus unicolor
+------------------------------------------------n02430748: pricket
+------------------------------------------------n02432983: elk, European elk, moose, Alces alces
+------------------------------------------------n02431785: wapiti, elk, American elk, Cervus elaphus canadensis
+------------------------------------------------n02434954: muntjac, barking deer
+------------------------------------------------n02433546: roe deer, Capreolus capreolus
+--------------------------------------------n02435853: chevrotain, mouse deer
+------------------------------------------------n02436224: kanchil, Tragulus kanchil
+------------------------------------------------n02436353: napu, Tragulus Javanicus
+------------------------------------------------n02436645: water chevrotain, water deer, Hyemoschus aquaticus
+--------------------------------------------n02439033: giraffe, camelopard, Giraffa camelopardalis
+------------------------------------------------n02439398: okapi, Okapia johnstoni
+--------------------------------------------n01319339: pollard
+dog
+------------------------------------n02083346: canine, canid
+----------------------------------------n02115335: wild dog
+--------------------------------------------n02116450: raccoon dog, Nyctereutes procyonides
+--------------------------------------------n02115913: dhole, Cuon alpinus
+--------------------------------------------n02115641: dingo, warrigal, warragal, Canis dingo
+--------------------------------------------n02116185: crab-eating dog, crab-eating fox, Dusicyon cancrivorus
+--------------------------------------------n02116738: African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus
+----------------------------------------n02117135: hyena, hyaena
+--------------------------------------------n02117512: striped hyena, Hyaena hyaena
+--------------------------------------------n02117900: spotted hyena, laughing hyena, Crocuta crocuta
+--------------------------------------------n02118176: aardwolf, Proteles cristata
+--------------------------------------------n02117646: brown hyena, strand wolf, Hyaena brunnea
+----------------------------------------n02083672: bitch
+--------------------------------------------n02083780: brood bitch
+----------------------------------------n02115096: jackal, Canis aureus
+----------------------------------------n02118333: fox
+--------------------------------------------n02119789: kit fox, Vulpes macrotis
+--------------------------------------------n02119477: red fox, Vulpes fulva
+--------------------------------------------n02119022: red fox, Vulpes vulpes
+------------------------------------------------n02119247: black fox
+------------------------------------------------n02119359: silver fox
+--------------------------------------------n02120505: grey fox, gray fox, Urocyon cinereoargenteus
+--------------------------------------------n02118643: vixen
+--------------------------------------------n02120079: Arctic fox, white fox, Alopex lagopus
+------------------------------------------------n02120278: blue fox
+--------------------------------------------n02119634: kit fox, prairie fox, Vulpes velox
+--------------------------------------------n02118707: Reynard
+----------------------------------------n02114100: wolf
+--------------------------------------------n02114712: red wolf, maned wolf, Canis rufus, Canis niger
+--------------------------------------------n02114855: coyote, prairie wolf, brush wolf, Canis latrans
+------------------------------------------------n02115012: coydog
+--------------------------------------------n02114548: white wolf, Arctic wolf, Canis lupus tundrarum
+--------------------------------------------n02114367: timber wolf, grey wolf, gray wolf, Canis lupus
+--------------------------------------------n01322508: wolf pup, wolf cub
+----------------------------------------n02084071: dog, domestic dog, Canis familiaris
+--------------------------------------------n02084732: pooch, doggie, doggy, barker, bow-wow
+--------------------------------------------n02087122: hunting dog
+------------------------------------------------n02098550: sporting dog, gun dog
+------------------------------------------------n02089232: dachshund, dachsie, badger dog
+------------------------------------------------n02092468: terrier
+------------------------------------------------n02087314: courser
+------------------------------------------------n02087551: hound, hound dog
+------------------------------------------------n02087394: Rhodesian ridgeback
+--------------------------------------------n02110341: dalmatian, coach dog, carriage dog
+------------------------------------------------n02110532: liver-spotted dalmatian
+--------------------------------------------n02084861: cur, mongrel, mutt
+------------------------------------------------n02085118: pariah dog, pye-dog, pie-dog
+------------------------------------------------n02085019: feist, fice
+--------------------------------------------n02112826: corgi, Welsh corgi
+------------------------------------------------n02113186: Cardigan, Cardigan Welsh corgi
+------------------------------------------------n02113023: Pembroke, Pembroke Welsh corgi
+--------------------------------------------n02113978: Mexican hairless
+--------------------------------------------n02085272: lapdog
+--------------------------------------------n02111277: Newfoundland, Newfoundland dog
+--------------------------------------------n02113335: poodle, poodle dog
+------------------------------------------------n02113712: miniature poodle
+------------------------------------------------n02113892: large poodle
+------------------------------------------------n02113624: toy poodle
+------------------------------------------------n02113799: standard poodle
+--------------------------------------------n02110806: basenji
+--------------------------------------------n02111129: Leonberg
+--------------------------------------------n02112497: griffon, Brussels griffon, Belgian griffon
+------------------------------------------------n02112706: Brabancon griffon
+--------------------------------------------n02110958: pug, pug-dog
+--------------------------------------------n02103406: working dog
+------------------------------------------------n02109047: Great Dane
+------------------------------------------------n02109150: guide dog
+------------------------------------------------n02104523: shepherd dog, sheepdog, sheep dog
+------------------------------------------------n02103841: watchdog, guard dog
+------------------------------------------------n02106854: police dog
+------------------------------------------------n02109687: seizure-alert dog
+------------------------------------------------n02109811: sled dog, sledge dog
+------------------------------------------------n02108089: boxer
+------------------------------------------------n02108422: bull mastiff
+------------------------------------------------n02109961: Eskimo dog, husky
+------------------------------------------------n02107420: Sennenhunde
+------------------------------------------------n02109525: Saint Bernard, St Bernard
+------------------------------------------------n02108254: mastiff
+------------------------------------------------n02109391: hearing dog
+------------------------------------------------n02108672: bulldog, English bulldog
+--------------------------------------------n02111626: spitz
+------------------------------------------------n02112018: Pomeranian
+------------------------------------------------n02112350: keeshond
+------------------------------------------------n02112137: chow, chow chow
+------------------------------------------------n02111889: Samoyed, Samoyede
+--------------------------------------------n02111500: Great Pyrenees
+--------------------------------------------n02085374: toy dog, toy
+------------------------------------------------n02086346: toy spaniel
+------------------------------------------------n02086079: Pekinese, Pekingese, Peke
+------------------------------------------------n02085936: Maltese dog, Maltese terrier, Maltese
+------------------------------------------------n02087046: toy terrier
+------------------------------------------------n02085782: Japanese spaniel
+------------------------------------------------n02086240: Shih-Tzu
+------------------------------------------------n02085620: Chihuahua
+--------------------------------------------n01322604: puppy
+frog
+----------------------------n01639765: frog, toad, toad frog, anuran, batrachian, salientian
+--------------------------------n01640846: true frog, ranid
+------------------------------------n01641206: wood-frog, wood frog, Rana sylvatica
+------------------------------------n01641391: leopard frog, spring frog, Rana pipiens
+------------------------------------n01641577: bullfrog, Rana catesbeiana
+------------------------------------n01641739: green frog, spring frog, Rana clamitans
+------------------------------------n01641930: cascades frog, Rana cascadae
+------------------------------------n01642097: goliath frog, Rana goliath
+------------------------------------n01642257: pickerel frog, Rana palustris
+------------------------------------n01642391: tarahumara frog, Rana tarahumarae
+------------------------------------n01642539: grass frog, Rana temporaria
+--------------------------------n01642943: leptodactylid frog, leptodactylid
+--------------------------------n01643255: robber frog
+--------------------------------n01643507: barking frog, robber frog, Hylactophryne augusti
+--------------------------------n01643896: crapaud, South American bullfrog, Leptodactylus pentadactylus
+--------------------------------n01644373: tree frog, tree-frog
+--------------------------------n01644900: tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui
+--------------------------------n01645466: Liopelma hamiltoni
+--------------------------------n01645776: true toad
+------------------------------------n01646292: bufo
+------------------------------------n01646388: agua, agua toad, Bufo marinus
+------------------------------------n01646555: European toad, Bufo bufo
+------------------------------------n01646648: natterjack, Bufo calamita
+------------------------------------n01646802: American toad, Bufo americanus
+------------------------------------n01646902: Eurasian green toad, Bufo viridis
+------------------------------------n01647033: American green toad, Bufo debilis
+------------------------------------n01647180: Yosemite toad, Bufo canorus
+------------------------------------n01647303: Texas toad, Bufo speciosus
+------------------------------------n01647466: southwestern toad, Bufo microscaphus
+------------------------------------n01647640: western toad, Bufo boreas
+--------------------------------n01648139: obstetrical toad, midwife toad, Alytes obstetricans
+--------------------------------n01648356: midwife toad, Alytes cisternasi
+--------------------------------n01648620: fire-bellied toad, Bombina bombina
+--------------------------------n01649170: spadefoot, spadefoot toad
+------------------------------------n01649412: western spadefoot, Scaphiopus hammondii
+------------------------------------n01649556: southern spadefoot, Scaphiopus multiplicatus
+------------------------------------n01649726: plains spadefoot, Scaphiopus bombifrons
+--------------------------------n01650167: tree toad, tree frog, tree-frog
+------------------------------------n01650690: spring peeper, Hyla crucifer
+------------------------------------n01650901: Pacific tree toad, Hyla regilla
+------------------------------------n01651059: canyon treefrog, Hyla arenicolor
+------------------------------------n01651285: chameleon tree frog
+------------------------------------n01651487: cricket frog
+----------------------------------------n01651641: northern cricket frog, Acris crepitans
+----------------------------------------n01651778: eastern cricket frog, Acris gryllus
+------------------------------------n01652026: chorus frog
+------------------------------------n01652297: lowland burrowing treefrog, northern casque-headed frog, Pternohyla fodiens
+--------------------------------n01653026: western narrow-mouthed toad, Gastrophryne olivacea
+--------------------------------n01653223: eastern narrow-mouthed toad, Gastrophryne carolinensis
+--------------------------------n01653509: sheep frog
+--------------------------------n01653773: tongueless frog
+------------------------------------n01654083: Surinam toad, Pipa pipa, Pipa americana
+------------------------------------n01654637: African clawed frog, Xenopus laevis
+--------------------------------n01654863: South American poison toad
+horse
+------------------------------------n02374451: horse, Equus caballus
+----------------------------------------n02382948: racehorse, race horse, bangtail
+--------------------------------------------n02385348: two-year-old horse, two year old
+--------------------------------------------n02385776: nonstarter
+--------------------------------------------n02385580: dark horse
+--------------------------------------------n02383231: thoroughbred
+--------------------------------------------n02385098: pony
+--------------------------------------------n02385461: three-year-old horse, three year old
+--------------------------------------------n02388143: pacer, pacemaker, pacesetter
+--------------------------------------------n02385214: yearling
+--------------------------------------------n02385676: mudder
+--------------------------------------------n02388276: trotting horse, trotter
+------------------------------------------------n02388453: pole horse
+----------------------------------------n02375862: eohippus, dawn horse
+----------------------------------------n02389026: sorrel
+----------------------------------------n02385898: stalking-horse
+----------------------------------------n02376423: protohippus
+----------------------------------------n02389261: pinto
+----------------------------------------n02382204: hack, jade, nag, plug
+----------------------------------------n02380335: pony
+--------------------------------------------n02382039: cayuse, Indian pony
+--------------------------------------------n02380583: mustang
+------------------------------------------------n02380745: bronco, bronc, broncho
+----------------------------------------n02381460: wild horse
+--------------------------------------------n02381831: Przewalski's horse, Przevalski's horse, Equus caballus przewalskii, Equus caballus przevalskii
+--------------------------------------------n02381609: tarpan, Equus caballus gomelini
+--------------------------------------------n02381744: warrigal, warragal
+----------------------------------------n02386310: workhorse
+--------------------------------------------n02386496: draft horse, draught horse, dray horse
+------------------------------------------------n02386853: carthorse, cart horse, drayhorse
+------------------------------------------------n02387581: wheel horse, wheeler
+------------------------------------------------n02387452: pole horse, poler
+------------------------------------------------n02387346: shire, shire horse
+------------------------------------------------n02387887: coach horse
+------------------------------------------------n02386968: Clydesdale
+------------------------------------------------n02387093: Percheron
+--------------------------------------------n02386746: packhorse
+--------------------------------------------n02382338: plow horse, plough horse
+--------------------------------------------n02387254: farm horse, dobbin
+----------------------------------------n02382132: hack
+----------------------------------------n02375302: roan
+----------------------------------------n02388917: bay
+----------------------------------------n02388588: stepper, high stepper
+----------------------------------------n02376918: male horse
+--------------------------------------------n02377181: stallion, entire
+------------------------------------------------n02377291: stud, studhorse
+--------------------------------------------n02377388: gelding
+----------------------------------------n02387983: pacer
+----------------------------------------n02380464: polo pony
+----------------------------------------n02388832: liver chestnut
+----------------------------------------n02386014: harness horse
+--------------------------------------------n02386224: hackney
+--------------------------------------------n02386141: cob
+----------------------------------------n02382437: pony
+--------------------------------------------n02382850: Exmoor
+--------------------------------------------n02382750: Welsh pony
+--------------------------------------------n02382635: Shetland pony
+----------------------------------------n02377480: mare, female horse
+--------------------------------------------n02377603: broodmare, stud mare
+----------------------------------------n02389128: palomino
+----------------------------------------n02387722: post horse, post-horse, poster
+----------------------------------------n02375757: gee-gee
+----------------------------------------n02377703: saddle horse, riding horse, mount
+--------------------------------------------n02379430: Tennessee walker, Tennessee walking horse, Walking horse, Plantation walking horse
+--------------------------------------------n02381364: grey, gray
+--------------------------------------------n02378870: prancer
+--------------------------------------------n02379908: Arabian, Arab
+--------------------------------------------n02379081: cow pony
+--------------------------------------------n02379743: Appaloosa
+--------------------------------------------n02379630: American saddle horse
+--------------------------------------------n02378415: warhorse
+------------------------------------------------n02378625: charger, courser
+------------------------------------------------n02378755: steed
+------------------------------------------------n02378541: cavalry horse
+--------------------------------------------n02378299: palfrey
+--------------------------------------------n02378969: hack
+--------------------------------------------n02381004: buckskin
+--------------------------------------------n02380052: Lippizan, Lipizzan, Lippizaner
+--------------------------------------------n02381119: crowbait, crow-bait
+--------------------------------------------n02379183: quarter horse
+--------------------------------------------n02381261: dun
+--------------------------------------------n02379329: Morgan
+--------------------------------------------n02378149: remount
+----------------------------------------n02388735: chestnut
+----------------------------------------n02376135: mesohippus
+----------------------------------------n02375438: stablemate, stable companion
+----------------------------------------n02384741: steeplechaser
+ship
+----------------------------n02858304: boat
+--------------------------------n02737351: ark
+--------------------------------n02792552: barge, flatboat, hoy, lighter
+------------------------------------n03236423: dredger
+------------------------------------n03545470: houseboat
+------------------------------------n03981566: pontoon
+------------------------------------n04150273: scow
+------------------------------------n04577293: wherry, Norfolk wherry
+--------------------------------n02918455: bumboat
+--------------------------------n02947660: canal boat, narrow boat, narrowboat
+--------------------------------n03329663: ferry, ferryboat
+------------------------------------n02964295: car-ferry
+--------------------------------n03344393: fireboat
+--------------------------------n03447447: gondola
+--------------------------------n03464628: guard boat
+--------------------------------n03468570: gunboat
+--------------------------------n03603594: junk
+--------------------------------n03687820: longboat
+--------------------------------n03696445: lugger
+--------------------------------n03703203: mackinaw, Mackinaw boat
+--------------------------------n03710079: mailboat, mail boat, packet, packet boat
+--------------------------------n03790230: motorboat, powerboat
+------------------------------------n02932891: cabin cruiser, cruiser, pleasure boat, pleasure craft
+------------------------------------n03647423: launch
+------------------------------------n03859170: outboard motorboat, outboard
+------------------------------------n04273569: speedboat
+----------------------------------------n03552749: hydrofoil, hydroplane
+------------------------------------n04562122: water scooter, sea scooter, scooter
+--------------------------------n03939178: pilot boat
+--------------------------------n03977592: police boat
+--------------------------------n04024983: punt
+--------------------------------n04095210: river boat
+------------------------------------n03609786: keelboat
+------------------------------------n04208760: showboat
+--------------------------------n04150371: scow
+--------------------------------n04158807: sea boat
+------------------------------------n04574348: whaleboat
+------------------------------------n03662601: lifeboat
+--------------------------------n04244997: small boat
+------------------------------------n02951358: canoe
+----------------------------------------n02843029: birchbark canoe, birchbark, birch bark
+----------------------------------------n03254374: dugout canoe, dugout, pirogue
+----------------------------------------n03609235: kayak
+----------------------------------------n03861430: outrigger canoe
+------------------------------------n03061345: cockleshell
+------------------------------------n03105306: coracle
+------------------------------------n03199901: dinghy, dory, rowboat
+----------------------------------------n04115456: rowing boat
+----------------------------------------n04577139: wherry
+------------------------------------n03436891: gig
+------------------------------------n04037964: racing boat
+----------------------------------------n04190997: shell, racing shell
+--------------------------------------------n04038338: racing skiff, single shell
+--------------------------------------------n04156720: scull
+----------------------------------------n04038231: racing gig
+------------------------------------n04229480: skiff
+----------------------------------------n04133114: sampan
+------------------------------------n04612504: yawl
+----------------------------------------n03602081: jolly boat, jolly
+--------------------------------n04308807: steamboat
+------------------------------------n04208760: showboat
+--------------------------------n04363671: surfboat
+--------------------------------n04409128: tender, ship's boat, pinnace, cutter
+------------------------------------n03436772: gig
+--------------------------------n04495843: tugboat, tug, towboat, tower
+truck
+--------------------------------n04490091: truck, motortruck
+------------------------------------n03256166: dump truck, dumper, tipper truck, tipper lorry, tip truck, tipper
+------------------------------------n03345487: fire engine, fire truck
+----------------------------------------n03632852: ladder truck, aerial ladder truck
+------------------------------------n03417042: garbage truck, dustcart
+------------------------------------n03690473: lorry, camion
+------------------------------------n03930630: pickup, pickup truck
+----------------------------------------n04399269: technical
+------------------------------------n04263139: sound truck
+------------------------------------n04461696: tow truck, tow car, wrecker
+------------------------------------n04465666: tractor
+------------------------------------n04467665: trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi
+----------------------------------------n04388372: tandem trailer
+------------------------------------n04474035: transporter, car transporter
+------------------------------------n04520170: van
+----------------------------------------n02871314: bookmobile
+----------------------------------------n03173929: delivery truck, delivery van, panel truck
+----------------------------------------n03648667: laundry truck
+----------------------------------------n03764822: milk float
+----------------------------------------n03796401: moving van
+--------------------------------------------n03884639: pantechnicon
+----------------------------------------n03896419: passenger van
+--------------------------------------------n03770679: minivan
+----------------------------------------n03977966: police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
