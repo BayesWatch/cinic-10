@@ -1,4 +1,4 @@
-# CINIC-10: CINIC-10 Is Not Imagenet or Cifar-10
+# CINIC-10: CINIC-10 Is Not Imagenet or CIFAR-10
 ... but it is created therefrom.
 
 ## Purpose
@@ -107,7 +107,7 @@ For comparison with CIFAR-10 models, these were trained 5 times with different s
            - The image filenames themselves, ```$synset$_$number$.png```, are identical to the filenames of the original *.JPEG* images from which these downsampled *.png* images were computed. 
            - This naming structure allows the user to identify exactly the origin of all images. 
 
-7. The result is a dataset that consists of **270000 images** (60000 from the original Cifar-10 data and the remaining from Imagenet), split into three equal-sized train, validation, and test subsets. Thus, each class within these subsets contains 9000 images. 
+7. The result is a dataset that consists of **270000 images** (60000 from the original CIFAR-10 data and the remaining from Imagenet), split into three equal-sized train, validation, and test subsets. Thus, each class within these subsets contains 9000 images. 
 
 ## Usage
 
