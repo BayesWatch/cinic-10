@@ -93,7 +93,7 @@ For comparison with CIFAR-10 models, these were trained 5 times with different s
 
 2. The relevant synonym sets (synsets) within the Fall 2011 release of the ImageNet Database were identified and collected. These *synset-groups* are listed in [**synsets-to-cifar-10-classes.txt**](synsets-to-cifar-10-classes.txt). The mapping from sysnsets to CINIC-10 is listed in [**imagenet-contributors.csv**](imagenet-contributors.csv) 
 
-3. These synsets were downloaded using [Imagenet Utils](https://github.com/tzutalin/ImageNet_Utils). Note that some *.tar* downloads failed (with a 0 Byte download) even after repeated retries. This is not exceedingly deterimental as a subset of the downloaded images was taken.
+3. These synsets were downloaded using [Imagenet Utils](https://github.com/tzutalin/ImageNet_Utils). Note that some *.tar* downloads failed (with a 0 Byte download) even after repeated retries. This is not exceedingly detrimental as a subset of the downloaded images was taken.
 
 4. The *.tar* files were extracted, the *.JPEG* images were read using the Pillow Python library, and converted to 32 by 32 pixel images with the 'Box' algorithm from the [Pillow library](https://python-pillow.org) (in the same manner as [Imagenet32x32](https://patrykchrabaszcz.github.io/Imagenet32/), for consistency).
 
