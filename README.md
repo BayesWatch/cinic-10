@@ -113,7 +113,13 @@ For comparison with CIFAR-10 models, these were trained 5 times with different s
 
 ### Download
 
-TODO
+To download either [use this link](https://datashare.is.ed.ac.uk/handle/10283/3192) or the following wget command:
+
+```bash
+wget https://datashare.is.ed.ac.uk/bitstream/handle/10283/3192/CINIC-10.tar.gz
+```
+
+
 
 ### Data loading
 
