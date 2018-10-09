@@ -163,9 +163,9 @@ Below are samples randomly selected from CINIC-10 and from CIFAR-10 for comparis
 
 ##### CIFAR-10
 
-![CIFAR airplane](/assets/cinic/images/cifar-airplane.png)
+![CIFAR airplane](images/cifar-airplane.png)
 ##### CINIC-10
-![CINIC airplane](/assets/cinic/images/cinic-airplane.png)
+![CINIC airplane](images/cinic-airplane.png)
 
 ---
 
@@ -174,9 +174,9 @@ Below are samples randomly selected from CINIC-10 and from CIFAR-10 for comparis
 
 ##### CIFAR-10
 
-![CIFAR automobile](/assets/cinic/images/cifar-automobile.png)
+![CIFAR automobile](images/cifar-automobile.png)
 ##### CINIC-10
-![CINIC automobile](/assets/cinic/images/cinic-automobile.png)
+![CINIC automobile](images/cinic-automobile.png)
 
 ---
 
@@ -184,9 +184,9 @@ Below are samples randomly selected from CINIC-10 and from CIFAR-10 for comparis
 
 ##### CIFAR-10
 
-![CIFAR bird](/assets/cinic/images/cifar-bird.png)
+![CIFAR bird](images/cifar-bird.png)
 ##### CINIC-10
-![CINIC bird](/assets/cinic/images/cinic-bird.png)
+![CINIC bird](images/cinic-bird.png)
 
 ---
 
@@ -194,9 +194,9 @@ Below are samples randomly selected from CINIC-10 and from CIFAR-10 for comparis
 
 ##### CIFAR-10
 
-![CIFAR cat](/assets/cinic/images/cifar-cat.png)
+![CIFAR cat](images/cifar-cat.png)
 ##### CINIC-10
-![CINIC cat](/assets/cinic/images/cinic-cat.png)
+![CINIC cat](images/cinic-cat.png)
 
 ---
 
@@ -204,9 +204,9 @@ Below are samples randomly selected from CINIC-10 and from CIFAR-10 for comparis
 
 ##### CIFAR-10
 
-![CIFAR deer](/assets/cinic/images/cifar-deer.png)
+![CIFAR deer](images/cifar-deer.png)
 ##### CINIC-10
-![CINIC deer](/assets/cinic/images/cinic-deer.png)
+![CINIC deer](images/cinic-deer.png)
 
 ---
 
@@ -214,9 +214,9 @@ Below are samples randomly selected from CINIC-10 and from CIFAR-10 for comparis
 
 ##### CIFAR-10
 
-![CIFAR dog](/assets/cinic/images/cifar-dog.png)
+![CIFAR dog](images/cifar-dog.png)
 ##### CINIC-10
-![CINIC dog](/assets/cinic/images/cinic-dog.png)
+![CINIC dog](images/cinic-dog.png)
 
 ---
 
@@ -224,18 +224,18 @@ Below are samples randomly selected from CINIC-10 and from CIFAR-10 for comparis
 
 ##### CIFAR-10
 
-![CIFAR frog](/assets/cinic/images/cifar-frog.png)
+![CIFAR frog](images/cifar-frog.png)
 ##### CINIC-10
-![CINIC frog](/assets/cinic/images/cinic-frog.png)
+![CINIC frog](images/cinic-frog.png)
 
 ---
 ### Horse
 
 ##### CIFAR-10
 
-![CIFAR horse](/assets/cinic/images/cifar-horse.png)
+![CIFAR horse](images/cifar-horse.png)
 ##### CINIC-10
-![CINIC horse](/assets/cinic/images/cinic-horse.png)
+![CINIC horse](images/cinic-horse.png)
 
 ---
 
@@ -243,9 +243,9 @@ Below are samples randomly selected from CINIC-10 and from CIFAR-10 for comparis
 
 ##### CIFAR-10
 
-![CIFAR ship](/assets/cinic/images/cifar-ship.png)
+![CIFAR ship](images/cifar-ship.png)
 ##### CINIC-10
-![CINIC ship](/assets/cinic/images/cinic-ship.png)
+![CINIC ship](images/cinic-ship.png)
 
 ---
 
@@ -253,9 +253,9 @@ Below are samples randomly selected from CINIC-10 and from CIFAR-10 for comparis
 
 ##### CIFAR-10
 
-![CIFAR truck](/assets/cinic/images/cifar-truck.png)
+![CIFAR truck](images/cifar-truck.png)
 ##### CINIC-10
-![CINIC truck](/assets/cinic/images/cinic-truck.png)
+![CINIC truck](images/cinic-truck.png)
 
 ---
 
@@ -263,7 +263,7 @@ Below are samples randomly selected from CINIC-10 and from CIFAR-10 for comparis
 
 The figure below compares the intensity distributions of Imagenet contributors and CIFAR-10. The dashed lines are the means.
 
-![Distributions](/assets/cinic/images/histogram-cinic.svg)
+![Distributions](images/histogram-cinic.svg)
 
 
 ## References
