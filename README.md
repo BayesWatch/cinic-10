@@ -1,5 +1,5 @@
 # CINIC-10: CINIC-10 Is Not Imagenet or CIFAR-10
-[Darlow L.N., Crowley E.J., Antoniou A., and A.J. Storkey (2018) CINIC-10 is not ImageNet or CIFAR-10. Report EDI-INF-ANC-1802 (arXiv:1810.03505).] (https://arxiv.org/abs/1810.03505)
+[Darlow L.N., Crowley E.J., Antoniou A., and A.J. Storkey (2018) CINIC-10 is not ImageNet or CIFAR-10. Report EDI-INF-ANC-1802 (arXiv:1810.03505).](https://arxiv.org/abs/1810.03505)
 
 ## Purpose
 To understand the purpose of compiling CINIC-10, consider the following:
