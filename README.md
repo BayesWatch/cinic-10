@@ -1,10 +1,10 @@
 # CINIC-10: CINIC-10 Is Not Imagenet or CIFAR-10
 [Darlow L.N., Crowley E.J., Antoniou A., and A.J. Storkey (2018) CINIC-10 is not ImageNet or CIFAR-10. Report EDI-INF-ANC-1802 (arXiv:1810.03505).](https://arxiv.org/abs/1810.03505)
 
-CINIC-10 is a drop-in replacement for CIFAR-10. We compiled it as a benchmarking datset because CIFAR-10  can be too small/too easy and ImageNet is often too difficult/too large. [ImageNet32](https://arxiv.org/abs/1707.08819) and [ImageNet64](https://arxiv.org/abs/1707.08819) are smaller than ImageNet but more even more difficult. CINIC-10 fills this benchmarking gap. 
+CINIC-10 is a drop-in replacement for CIFAR-10. We compiled it as a benchmarking datset because CIFAR-10  can be too small/too easy and ImageNet is often too large/difficult. [ImageNet32](https://arxiv.org/abs/1707.08819) and [ImageNet64](https://arxiv.org/abs/1707.08819) are smaller than ImageNet but more even more difficult. CINIC-10 fills this benchmarking gap. 
 
 ## Motivation
-"Recent years have seen treme dous advances in the field of deep learning ([LeCun et a., 2015](#references))"
+"Recent years have seen tremendous advances in the field of deep learning ([LeCun et al., 2015](#references))"
 
 
 
@@ -26,7 +26,7 @@ alternative to CIFAR-10.
 
 - CINIC-10 has a total of 270,000 images equally split amonst three subsets: train, validate, and test.
 
-- In each subset (90,000 images) there are ten classes (identical to [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) classes). There are 9000 images per class per subset. Using the suggested data split (an equal three-way split), CINIC-10 has 1.8 times as many training samples than CIFAR-10. CINIC-10 is designed to be directly swappable with CIFAR-10.
+- In each subset (90,000 images) there are ten classes (identical to [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) classes). There are 9,000 images per class per subset. Using the suggested data split (an equal three-way split), CINIC-10 has 1.8 times as many training samples than CIFAR-10. CINIC-10 is designed to be directly swappable with CIFAR-10.
 
 - The train and validation classes can be combined to form a larger train set. In this case, CINIC-10 would have 3.6 times as many training samples than CIFAR-10. A [notebook is provided](https://github.com/BayesWatch/cinic-10/blob/master/notebooks/enlarge-train-set.ipynb) to do this.
 
@@ -72,9 +72,9 @@ alternative to CIFAR-10.
 
 4. The *.tar* files were extracted, the *.JPEG* images were read using the Pillow Python library, and converted to 32 by 32 pixel images with the 'Box' algorithm from the [Pillow library](https://python-pillow.org) (in the same manner as [Imagenet32x32](https://patrykchrabaszcz.github.io/Imagenet32/), for consistency).
 
-5. The **lowest** number of CIFAR10 **class-relevant** samples from these Imagenet *synset-groups* samples was observed to be 21939 in the 'truck' class. Therefore, 21000 samples were randomly selected from each *synset-group* to compile CINIC-10 by augmenting the CIFAR-10 data.
+5. The **lowest** number of CIFAR10 **class-relevant** samples from these Imagenet *synset-groups* samples was observed to be 21939 in the 'truck' class. Therefore, 21,000 samples were randomly selected from each *synset-group* to compile CINIC-10 by augmenting the CIFAR-10 data.
 
-6. Finally, these 21000 samples were randomly distributed (but can be recovered using the filename) within the *new* train, validation, and test sets, storing as follows:
+6. Finally, these 21,000 samples were randomly distributed (but can be recovered using the filename) within the *new* train, validation, and test sets, storing as follows:
       ``` [$set$/$class_name$/$synset$_$number$.png]```
 
       - where ```$set$``` is either train, valid or test. ```$class_name$``` refers to the [CIFAR-10 classes](https://www.cs.toronto.edu/~kriz/cifar.html) (airplane, automobile, etc.). ```$synset$``` indicates which Imagenet synset this image came from and ```$number$``` is the image number directly associated with the original *.JPEG* images. 
@@ -291,6 +291,5 @@ Yann LeCun, Yoshua Bengio, and Geoffrey Hinton. Deep learning. Nature, 521(7553)
 
 Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein, Alexander C. Berg, and Li Fei-Fei. ImageNet large scale visual recognition challenge. International Journal of Computer Vision (IJCV), 115(3):211–252, 2015. doi: 10.1007/s11263-015-0816-y.
 
-Karen Simonyan and Andrew Zisserman. Very deep convolutional networks for large-scale image recogni-
-tion. In International Conference on Learning Representations, 2015.
+Karen Simonyan and Andrew Zisserman. Very deep convolutional networks for large-scale image recognition. In International Conference on Learning Representations, 2015.
 
