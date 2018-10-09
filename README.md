@@ -4,7 +4,7 @@
 CINIC-10 is a drop-in replacement for CIFAR-10. We compiled it as a benchmarking datset because CIFAR-10  can be too small/too easy and ImageNet is often too difficult/too large. [ImageNet32](https://arxiv.org/abs/1707.08819) and [ImageNet64](https://arxiv.org/abs/1707.08819) are smaller than ImageNet but more even more difficult. CINIC-10 fills this benchmarking gap. 
 
 ## Motivation
-"Recent years have seen treme dous advances in the field of deep learning ([LeCun et a., 2015](#references))"
+"Recent years have seen tremendous advances in the field of deep learning ([LeCun et a., 2015](#references))"
 
 
 
