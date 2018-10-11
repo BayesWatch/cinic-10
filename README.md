@@ -1,6 +1,8 @@
 # CINIC-10: CINIC-10 Is Not Imagenet or CIFAR-10
 Dataset: [http://dx.doi.org/10.7488/ds/2448](http://dx.doi.org/10.7488/ds/2448)
+
 Blog: [Bayeswatch Blog: CINIC-10](http://www.bayeswatch.com/2018/10/09/CINIC/)
+
 Paper: [Darlow L.N., Crowley E.J., Antoniou A., and A.J. Storkey (2018) CINIC-10 is not ImageNet or CIFAR-10. Report EDI-INF-ANC-1802 (arXiv:1810.03505).](https://arxiv.org/abs/1810.03505)
 
 CINIC-10 is a drop-in replacement for CIFAR-10. We compiled it as a benchmarking datset because CIFAR-10  can be too small/too easy and ImageNet is often too large/difficult. [ImageNet32](https://arxiv.org/abs/1707.08819) and [ImageNet64](https://arxiv.org/abs/1707.08819) are smaller than ImageNet but more even more difficult. CINIC-10 fills this benchmarking gap. 
