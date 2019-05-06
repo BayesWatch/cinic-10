@@ -1,4 +1,6 @@
 # CINIC-10: CINIC-10 Is Not Imagenet or CIFAR-10
+Benchmarking, Papers with code: [https://paperswithcode.com/sota/image-classification-on-cinic-10](https://paperswithcode.com/sota/image-classification-on-cinic-10)
+
 Dataset: [http://dx.doi.org/10.7488/ds/2448](http://dx.doi.org/10.7488/ds/2448)
 
 Blog: [Bayeswatch Blog: CINIC-10](http://www.bayeswatch.com/2018/10/09/CINIC/)
