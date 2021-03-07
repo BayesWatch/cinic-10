@@ -154,6 +154,8 @@ cinic_train = torch.utils.data.DataLoader(
     batch_size=128, shuffle=True)
 ```
 
+If you are using Tensorflow instead, the directory structure also works with [tfds.folder_dataset.ImageFolder](https://www.tensorflow.org/datasets/api_docs/python/tfds/folder_dataset/ImageFolder).
+
 ### Classification
 The suggested dataset can be used *as is* in a standard classification set-up. Further, the train and validation subsets can be combined ([using symbolic links, into a new data folder](https://github.com/BayesWatch/cinic-10/blob/master/notebooks/enlarge-train-set.ipynb))  to more closely match the data split choice of CIFAR-10 (one large train set, and one smaller test set).
 
